@@ -1,4 +1,4 @@
-# TaskMaster - Advanced CRUD Operations
+# TaskMaster - 💫 Advanced CRUD Operations
 
 ## 📖 Overview
 Advanced CRUD Operations is a modern and responsive Task Management Web Application developed using HTML5, CSS3, and Vanilla JavaScript (ES6+). The application enables users to create, view, update, and delete tasks while ensuring persistent data storage through the Local Storage API, allowing task information to remain available even after the browser is refreshed or reopened. It features a clean and intuitive dashboard with real-time task statistics, search, filtering, sorting, light and dark mode support, JSON import/export functionality, and responsive design for seamless use across desktop, tablet, and mobile devices. Built using modular JavaScript and modern frontend development practices, this project demonstrates practical implementation of CRUD operations, DOM manipulation, event handling, client-side data persistence, form validation, and responsive UI design, making it an excellent showcase of advanced JavaScript and web development skills.
