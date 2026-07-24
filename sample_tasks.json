@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1690196800000,
+    "title": "Complete Project Documentation",
+    "description": "Write the README and setup instructions for the new API.",
+    "priority": "High",
+    "dueDate": "2026-07-25",
+    "status": "Pending",
+    "createdAt": "2026-07-23T10:00:00.000Z",
+    "updatedAt": "2026-07-23T10:00:00.000Z"
+  },
+  {
+    "id": 1690197800000,
+    "title": "Review Pull Requests",
+    "description": "Review PRs #452 and #453 from the frontend team.",
+    "priority": "Medium",
+    "dueDate": "2026-07-24",
+    "status": "Completed",
+    "createdAt": "2026-07-23T11:30:00.000Z",
+    "updatedAt": "2026-07-23T14:20:00.000Z"
+  },
+  {
+    "id": 1690198800000,
+    "title": "Update Dependencies",
+    "description": "Update React and related packages to the latest versions.",
+    "priority": "Low",
+    "dueDate": "2026-07-30",
+    "status": "Pending",
+    "createdAt": "2026-07-23T12:15:00.000Z",
+    "updatedAt": "2026-07-23T12:15:00.000Z"
+  },
+  {
+    "id": 1690199800000,
+    "title": "Prepare Presentation",
+    "description": "Create slides for the Q3 planning meeting.",
+    "priority": "High",
+    "dueDate": "2026-07-27",
+    "status": "Pending",
+    "createdAt": "2026-07-23T13:45:00.000Z",
+    "updatedAt": "2026-07-23T13:45:00.000Z"
+  },
+  {
+    "id": 1690200800000,
+    "title": "Fix Login Bug",
+    "description": "Investigate and resolve the issue where users are randomly logged out.",
+    "priority": "High",
+    "dueDate": "2026-07-23",
+    "status": "Completed",
+    "createdAt": "2026-07-22T09:00:00.000Z",
+    "updatedAt": "2026-07-23T15:10:00.000Z"
+  }
+]
