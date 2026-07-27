@@ -114,7 +114,7 @@ Advanced CRUD Operations is a modern and responsive Task Management Web Applicat
 - The application will load automatically, and you can start creating, updating, deleting, searching, filtering, and managing tasks.
 - All task data is stored locally using the Local Storage API, so your tasks remain available even after refreshing or reopening the browser.
 
-## How to Run
+## 📂 How to Run
 ### Command Line
 1. Open your terminal or command prompt.
 2. Navigate to the project folder:
