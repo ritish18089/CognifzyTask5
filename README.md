@@ -92,6 +92,18 @@ Advanced CRUD Operations is a modern and responsive Task Management Web Applicat
 ### 🎨 Theme 
 <p align="center"><img src="https://github.com/ritish18089/CognifzyTask5/blob/main/11.png" height="1000px">
 
+## 📚 Learning Outcomes
+- CRUD Operations
+- DOM Manipulation
+- ES6+ JavaScript
+- Local Storage API
+- Event Handling
+- Form Validation
+- Responsive Web Design
+- JSON Import & Export
+- State Management
+- Modular JavaScript
+
 
 ## ⚙ Installation Steps
 - Ensure you have a modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox, or Safari) installed.
