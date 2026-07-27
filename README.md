@@ -59,7 +59,7 @@ Advanced CRUD Operations is a modern and responsive Task Management Web Applicat
 | **Responsive UI Module**   | Ensures a seamless experience across desktop, tablet, and mobile devices.                  |
 
 ## 📸 Screenshots
-### Dashboard (Home Screen) 
+### 🏠 Dashboard (Home Screen) 
 <p align="center"><img src="https://github.com/ritish18089/CognifzyTask5/blob/main/1.png" height="1000px">
 
 ### ➕ Add Tasks
